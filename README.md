@@ -10,7 +10,7 @@
 - 🎓 B.Tech AI & Data Science (2nd Year)
 - 🌱 Learning MERN Stack & DSA
 - 🤖 Interested in AI, IoT & Smart Systems
-- 🎵 Love listening to music & creating content
+- 🎵 Love listening to music 
 - 🚀 Dream: Become an AI Engineer
 ##🛠️ Tech Stack
 
@@ -49,10 +49,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:joshpinkayalvizhi1247@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/joshpin-kayalvizhi-b47a2b314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
