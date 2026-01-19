@@ -56,6 +56,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshpinKayalvizhi&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ✨ Thanks for visiting my profile!  
