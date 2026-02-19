@@ -17,7 +17,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,flask,mongodb,firebase,git,docker" />
 </p>
-##📚 Currently Learning
+<b>📚 Currently Learning</b>
 
 - MERN Stack 🚀
 - Advanced DSA 🧩
