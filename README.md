@@ -10,7 +10,6 @@
 - 🎓 B.Tech AI & Data Science (2nd Year)
 - 🌱 Learning MERN Stack & DSA
 - 🤖 Interested in AI, IoT & Smart Systems
-- 🎵 Love listening to music 
 - 🚀 Dream: Become an AI Engineer
 <br><b>🛠️ Tech Stack</b>
 
