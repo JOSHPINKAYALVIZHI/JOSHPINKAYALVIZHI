@@ -15,7 +15,7 @@
 <br><b>🛠️ Tech Stack</b>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,flask,mongodb,firebase,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,flask,mongodb,git,docker" />
 </p>
 <b>📚 Currently Learning</b>
 
