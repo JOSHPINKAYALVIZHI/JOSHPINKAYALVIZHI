@@ -7,31 +7,33 @@
 </p>
 👨‍💻 About Me
 
-- 🎓 B.Tech AI & Data Science (2nd Year)
-- 🌱 Learning MERN Stack & DSA
-- 🤖 Interested in AI, IoT & Smart Systems
-- 🚀 Dream: Become an AI Engineer
-<br><b>🛠️ Tech Stack</b>
+   - 🎓 B.Tech AI & Data Science (2nd Year)
+   - 🌱 Learning MERN Stack & DSA
+   - 🤖 Interested in AI, IoT & Smart Systems
+   - 🚀 Dream: Become an AI Engineer
+<br>
+<b>🛠️ Tech Stack</b>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,flask,mongodb,git,docker" />
 </p>
 <b>📚 Currently Learning</b>
 
-- MERN Stack 🚀
-- Advanced DSA 🧩
-- AI Model Fundamentals 🤖
-- Clean UI/UX Design 🎨
-<br><b>🚀 Featured Projects</b>
+   - MERN Stack 🚀
+   - Advanced DSA 🧩
+   - AI Model Fundamentals 🤖
+   - Clean UI/UX Design 🎨
+<br>
+<b>🚀 Featured Projects</b>
 
-- 🌱 **Smart Farming System**  
-  IoT-based automated irrigation using real-time sensor data
+  - 🌱 **Smart Farming System**  
+     IoT-based automated irrigation using real-time sensor data
 
-- 🧠 **AI Lifestyle Analyzer**  
-  Mood tracker, to-do list & personal diary app
+  - 🧠 **AI Lifestyle Analyzer**  
+     Mood tracker, to-do list & personal diary app
 
-- 🏙️ **Accessible Chennai**  
-  UI/UX project for inclusive urban mobility
+  - 🏙️ **Accessible Chennai**  
+     UI/UX project for inclusive urban mobility
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshpinKayalvizhi&theme=tokyonight" />
 </p>
