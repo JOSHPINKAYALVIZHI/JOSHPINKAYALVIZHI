@@ -12,7 +12,7 @@
 - 🤖 Interested in AI, IoT & Smart Systems
 - 🎵 Love listening to music 
 - 🚀 Dream: Become an AI Engineer
-##🛠️ Tech Stack
+<br><b>🛠️ Tech Stack</b>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,flask,mongodb,firebase,git,docker" />
