@@ -23,7 +23,7 @@
 - Advanced DSA 🧩
 - AI Model Fundamentals 🤖
 - Clean UI/UX Design 🎨
-##🚀 Featured Projects
+<br><b>🚀 Featured Projects</b>
 
 - 🌱 **Smart Farming System**  
   IoT-based automated irrigation using real-time sensor data
@@ -55,7 +55,6 @@
 </p>
 
 
----
 
 ✨ Thanks for visiting my profile!  
 Feel free to explore my repositories and connect with me 😊
