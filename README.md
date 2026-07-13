@@ -84,16 +84,7 @@ UI/UX solution designed to improve accessibility and inclusive urban mobility.
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshpinKayalvizhi&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshpinKayalvizhi&theme=tokyonight"/>
-  
-</p>
 
 ## 🔥 GitHub Streak
 
